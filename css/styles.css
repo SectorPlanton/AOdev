@@ -48,7 +48,7 @@ h3 {
 
 hr {
   border: none;
-  border-top: 4px dotted grey;
+  border-top: 6px dotted #eaf6f6;
   width: 6%;           /* ajustabil pentru 6 puncte */
   margin: auto;     /* centru pe pagină, sus/jos spațiu */
 }
